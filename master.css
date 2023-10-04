@@ -90,7 +90,7 @@ body {
 .settings-box .options-box .no {
   width: 50px;
   cursor: pointer;
-  /* incase I wanna make it the main root colo */
+  /* incase I wanted to make it the main root colo */
   /* background-color: var(--main--color); */
   color: #ffffff;
   margin-top: 20px;
