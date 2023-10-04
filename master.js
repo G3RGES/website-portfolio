@@ -22,7 +22,6 @@ if (bgLocalItem !== null) {
   } else {
     backgroundOption = false;
   }
-  // document.documentElement.style.setProperty("background-image", bgLocalItem);
 
   //REMOVE ACTIVE CLASS FROM ALL SPANS
   document.querySelectorAll(".random-backgrounds span").forEach((element) => {
